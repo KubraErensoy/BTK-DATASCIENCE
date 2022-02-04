@@ -1,7 +1,1 @@
 # BTK-DATASCIENCE
-
-**DAY1
-
-
-
-DAy2
